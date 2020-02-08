@@ -10,5 +10,6 @@ Example Video 1
 <img src="github-Images/NotesVideo1.gif" height="600">
 <br/>
 Example Video 2
+<br/>
 <img src="github-Images/NotesVideo2.gif" height="600">
 
