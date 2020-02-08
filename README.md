@@ -8,5 +8,5 @@ Notes App created using Flutter and Dart
 <img src="github-Images/Notes3.png" height="400">
 <br/>
 <br/>
-<img src="github-Images/NotesVideo.gif" height="400">
+<img src="github-Images/NotesVideo2.gif" height="400">
 
